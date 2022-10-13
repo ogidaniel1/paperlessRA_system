@@ -2,7 +2,7 @@
 
 --  We want to design a system that ustilizes a fingerprint instead ofthe usual button for actions
 
-*Scenario of a sick leave request-(to enable the staff present at the hospital*
+*Scenario of a sick leave request-(to enable the staff present at the hospital)*
 -- 
 **Staff dashboard**
 
